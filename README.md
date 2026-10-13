@@ -10,11 +10,7 @@
   Vulnerability Assessment and Information Security.
 </p>
 
-<p align="center">
-  <a href="https://github.com/parawork">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
-</p>
+
 
 ---
 
@@ -77,7 +73,6 @@ Research project focused on analysing UAV/MAVLink traffic.
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/parawork
 - LinkedIn: Add your LinkedIn profile URL here
 - Email: Add a professional contact email here
 
