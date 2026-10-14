@@ -2,12 +2,11 @@
 <h1 align="center">Hi 👋, I'm Dimuthu Ekanayaka</h1>
 
 <h3 align="center">
-  Cyber Security Undergraduate | Aspiring Security Professional
+  Cyber Security Undergraduate.
 </h3>
 
 <p align="center">
-  Interested in Network Security, Security Monitoring,
-  Vulnerability Assessment and Information Security.
+  Interested in Network Security, Security Monitoring and Cloud Security.
 </p>
 
 
@@ -19,7 +18,7 @@
 - 🎓 Cyber Security undergraduate at SLIIT
 - 🔐 Interested in Network Security and Cybersecurity
 - 🛠️ Learning through university projects and hands-on labs
-- 📚 Developing skills in networking, Linux and security tools
+- 📚 Developing skills in networking, Linux and security and cloud tools
 - 🎯 Looking for a Cyber Security Internship opportunity
 
 ## 🧰 Technical Skills
