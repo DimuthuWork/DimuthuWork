@@ -28,12 +28,17 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=flat&logo=cisco&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+
 
 **Programming & Development**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🚀 Featured Projects
@@ -65,15 +70,17 @@ Research project focused on analysing UAV/MAVLink traffic.
 
 ## 📚 Currently Learning
 
-- Network Security Fundamentals
-- Linux and Security Tools
-- Security Monitoring and Log Analysis
-- Python for Cybersecurity
+- Network Security Fundamentals.
+- Linux and Security Tools.
+- Ethical Hacking & Penetration Testing.
+- Cloud Security. 
+
+
 
 ## 🤝 Connect With Me
 
 - LinkedIn: Add your LinkedIn profile URL here
-- Email: Add a professional contact email here
+- Email: dimuthuekanayaka1120@gmail.com
 
 ---
 
